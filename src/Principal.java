@@ -6,7 +6,7 @@ public class Principal {
 		
 		//Esta es la clase principal de mi proyecto de arquitectura
 		//para la asignatura de tic2
-		
+		//Aquí se incluye el funcionamiento
 	}
 
 }
